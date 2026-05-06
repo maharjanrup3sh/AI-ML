@@ -18,8 +18,8 @@ Each branch contains a separate project or practice collection. All work here re
 |---|---|
 | 🧠 `Deeplearning-fastai` | Practice notebooks based on the book *Deep Learning for Coders with FastAI and PyTorch* |
 | 🌍 `Earthquake-Analysis` | Temporal pattern analysis of Nepal earthquakes (2015–2025) using KMeans clustering and data visualization |
-| 💬 Sentiment-Analysis — Comparative study of BERT, DistilBERT, and RoBERTa transformers on IMDb movie review data |
-| 🎨 Blender-AI-Pipeline — Your custom Blender add-on that uses AI to automatically classify, name, group, and optimize 3D assets |
+| 💬 `Sentiment-Analysis` | Comparative study of transformer-based models (BERT, DistilBERT, RoBERTa) on IMDb customer review data for binary sentiment classification |
+| 🎨 `Blender-AI-Pipeline` | A custom Blender add-on that uses AI-based classification to automatically scan, label, group, and optimize 3D scene assets for game and film pipelines |
 
 > More projects will be added as I progress through my Masters program.
 
@@ -37,15 +37,15 @@ Each branch contains a separate project or practice collection. All work here re
 
 I am a professional 3D Artist with 5+ years of industry experience specializing in modeling and texturing, having contributed to internationally recognized productions. I am now expanding into the world of AI and Machine Learning — combining creative and technical expertise to explore the future of intelligent content creation.
 
-- 🎨 **3D Portfolio:** [ArtStation](https://www.artstation.com)
+- 🎨 **3D Portfolio:** https://www.artstation.com/maharjanrup3sh
 - 📧 **Email:** maharjanrup3sh@gmail.com
 
 ---
 
 ## 🚀 Goals
 
-- Build a strong foundation in Deep Learning and Computer Vision
 - Explore the intersection of AI and 3D content creation
+- Build a strong foundation in Deep Learning and Computer Vision
 - Contribute to real-world AI/ML projects
 
 ---
